@@ -7,6 +7,7 @@ $ mkdir swiftwasm-source
 $ cd swiftwasm-source
 $ git clone https://github.com/swiftwasm/swift.git
 $ ./swift/utils/update-checkout --scheme wasm --clone
+$ cd swift
 ```
 
 ## 2. Install required dependencies
